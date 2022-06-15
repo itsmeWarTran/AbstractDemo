@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{8B62EF43-4A42-4F78-8A20-F556C2C63BD7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="18" Column="32" />
+      <File FileName="Animal.cs" Line="19" Column="6" />
+      <File FileName="Bear.cs" Line="19" Column="1" />
+      <File FileName="Hawk.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AbstractDemo" expanded="True">
+            <Node name="AbstractDemo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AbstractDemo PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
